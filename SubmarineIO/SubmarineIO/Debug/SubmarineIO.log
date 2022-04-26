@@ -1,0 +1,33 @@
+﻿  SubmarineIO.cpp
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(72,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(72,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(72,12): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(108,1): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(111,29): warning C4244: “=”: 从“__int64”转换到“uInt”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(113,30): warning C4244: “=”: 从“__int64”转换到“uInt”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(136,21): warning C4244: “=”: 从“__int64”转换到“uInt”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(137,22): warning C4244: “=”: 从“__int64”转换到“uInt”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(165,37): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(166,32): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(178,47): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(179,36): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(188,48): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(189,36): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(191,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(191,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(191,12): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(205,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(205,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(205,12): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(207,50): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(208,38): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(211,12): warning C4477: “printf”: 格式字符串“%zu”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“__int64 (__cdecl *)(const char *,__int64,char *,__int64)”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(222,47): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(223,36): warning C4244: “参数”: 从“__int64”转换到“size_t”，可能丢失数据
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(225,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(225,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(225,12): message : 请考虑在格式字符串中使用“%I64d”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(235,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(235,12): message : 请考虑在格式字符串中使用“%lld”
+C:\Users\11447\source\repos\SubmarineIO\SubmarineIO\SubmarineIO.cpp(235,12): message : 请考虑在格式字符串中使用“%I64d”
+  SubmarineIO.vcxproj -> C:\Users\11447\source\repos\SubmarineIO\Debug\SubmarineIO.exe
